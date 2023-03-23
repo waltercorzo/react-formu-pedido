@@ -43,5 +43,3 @@ const ComponenteInput = ({estado, cambiarEstado, label, nombre, placeholder, typ
     );
 }
 export default ComponenteInput;
-
-            
